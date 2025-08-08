@@ -14,9 +14,16 @@ git commit -m "Update documentname in branchname" # Creates a new save point
 
 git push -u origin branchname # uploads the changes to GitHub
 
-TO SWITCH BRANCHES
+TO SWITCH BRANCHES:
 
 git checkout branchname 
 
 
+TO CREATE A NEW BRANCH: 
+
+git checkout -b newbranchname
+
+TO CHECK IF THE CURRENT FOLDER IS UP TO DATE: 
+
+git pull 
 
