@@ -4,7 +4,7 @@ Here is the basic navigation of GitHub, Git and VSCode
 
 Saving the file in a branch saves it locally on the computer. 
 
-Saving Work
+SAVING WORK
 
 In the terminal: 
 
@@ -14,6 +14,9 @@ git commit -m "Update documentname in branchname" # Creates a new save point
 
 git push -u origin branchname # uploads the changes to GitHub
 
+TO SWITCH BRANCHES
+
+git checkout branchname 
 
 
 
